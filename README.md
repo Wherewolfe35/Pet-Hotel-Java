@@ -1,3 +1,7 @@
+# PET HOTEL
+
+This is a Java back-end and JS front end app that allows users to add, edit, and remove pets as well as check them into and out of the pet hotel.
+
 #### FIRST TIME JAVA USER SETUP
 
 ## Installing Homebrew
@@ -61,17 +65,6 @@ In the main project folder, create a file called application.properties. (This i
     -Update the spring.datasource.username to reflect your Postico user ID
         Note: It is recommended that if working on a group project, add application.properties to the .gitignore, and each user should create a copy with their personal username.
 
-## Hello World
-Create a file called Controller.java (Controller is the sample name and is the equivalent of server.js in Javascript.) Demo in the first line is the file path in which the files are located:
-
-    package demo;
-    class Controller
-    {
-        public static void main (String args[])
-        {
-            System.out.println("Hello World!");
-        }
-    }
 
 ## Connecting to the client side
 React setup and startup is the same.
