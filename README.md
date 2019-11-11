@@ -32,7 +32,8 @@ If you have not done so already, you will need to install Java:
             -java Controller
                 -This runs it once it is compiled.
 
--Clone the client-side repository.[Client-React](https://github.com/Wherewolfe35/pet-hotel-client)
+-Clone the client-side repository.
+[Client-React](https://github.com/Wherewolfe35/pet-hotel-client)
 -npm install
 -npm start
 
